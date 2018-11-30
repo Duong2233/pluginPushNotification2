@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   #  s.source           = { :git => 'https://github.com/Duong2233/pluginPushNotification2.git', :tag => s.version.to_s }
   s.source       = { :git => 'https://github.com/Duong2233/pluginPushNotification2.git', :commit => 'db415ad0903d3aa07b4b93a4d7cabc842b8a2ec1' }
 
-  s.source_files  = "pluginPushNotification2/**/*.{h,m,swift}"
+  s.source_files  = "Pod/Classes/**/*.{h,m,swift}"
   s.platform = :ios, '8.0'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
