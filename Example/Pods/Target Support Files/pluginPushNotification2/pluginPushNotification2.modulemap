@@ -1,0 +1,6 @@
+framework module pluginPushNotification2 {
+  umbrella header "pluginPushNotification2-umbrella.h"
+
+  export *
+  module * { export * }
+}

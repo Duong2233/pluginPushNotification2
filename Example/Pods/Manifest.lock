@@ -1,0 +1,16 @@
+PODS:
+  - pluginPushNotification2 (0.1.0)
+
+DEPENDENCIES:
+  - pluginPushNotification2 (from `../`)
+
+EXTERNAL SOURCES:
+  pluginPushNotification2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pluginPushNotification2: 36a6bf7ff7f0476d884ac7d183a005bf76e65d49
+
+PODFILE CHECKSUM: a195dc143442809d819edad3483e6344985a45a0
+
+COCOAPODS: 1.5.3
