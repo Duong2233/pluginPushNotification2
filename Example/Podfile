@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'pluginPushNotification2_Example' do
+  pod 'pluginPushNotification2', :path => '../'
+
+  target 'pluginPushNotification2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
